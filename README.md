@@ -1,7 +1,27 @@
+--Download or clone the project.
+
+--Extract the zip into your desired folder.
+
+--You should have installed python already.
+
+--open the file: bot.py
+
+--make necessary changes into code to find specific words. [If you find it hard, let me know, and I will come with more easy versions for this project. Please note this is prototype intended to direct you. Mail me @stdevanant@gmail.com]
+
+--run the bot.py file by moving into the folder 
+
+           py bot.py
+
+
+
+
+
+
 english-words
 =============
 
 A text file containing over 466k English words.
+You can refer this git repo for words collection.
 
 While searching for a list of english words (for an auto-complete tutorial)
 I found: http://stackoverflow.com/questions/2213607/how-to-get-english-language-word-database which refers to [http://www.infochimps.com/datasets/word-list-350000-simple-english-words-excel-readable](https://web.archive.org/web/20131118073324/http://www.infochimps.com/datasets/word-list-350000-simple-english-words-excel-readable) (archived).
